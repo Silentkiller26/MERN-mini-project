@@ -21,27 +21,24 @@ const Footer = () => {
               <a href=''>Home</a>
             </li>
             <li>
-              <a href=''>Man Fashion</a>
+              <a href=''>Handloom</a>
             </li>
             <li>
-              <a href=''>Accessories</a>
+              <a href=''>Pottery</a>
             </li>
             <li>
-              <a href=''>Order Tracking</a>
+              <a href=''>Chappals</a>
             </li>
           </ul>
           <ul>
             <li>
+              <a href=''>Paintings</a>
+            </li>
+            <li>
+              <a href=''>carvings</a>
+            </li>
+            <li>
               <a href=''>Cart</a>
-            </li>
-            <li>
-              <a href=''>My Account</a>
-            </li>
-            <li>
-              <a href=''>Wishlist</a>
-            </li>
-            <li>
-              <a href=''>Terms</a>
             </li>
           </ul>
         </div>
@@ -55,11 +52,11 @@ const Footer = () => {
           </li>
           <li>
             <LocalPhone className='mr-4' />
-            <span>+201154251620</span>
+            <span>9699810275</span>
           </li>
           <li>
             <MailOutline className='mr-4' />
-            <span>contact@craftkala.com</span>
+            <span>contact@Craftkala.com</span>
           </li>
         </ul>
       </div>
