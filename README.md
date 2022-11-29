@@ -46,9 +46,28 @@ Platform/Language: Node JS, React JS, Express JS
  Logout
  
 
+## Images 
+
+
+![image](https://user-images.githubusercontent.com/75881116/204611984-09318ec6-3db3-41f9-a39c-27b18579f1d5.png)
+
+![image](https://user-images.githubusercontent.com/75881116/204612203-775f21ce-fd04-4229-8065-c0d226f31268.png)
+
+![image](https://user-images.githubusercontent.com/75881116/204612288-b4f1335a-c457-4366-96f6-f0e08477df21.png)
+
+![image](https://user-images.githubusercontent.com/75881116/204612355-72f8ac4e-81ab-4e0b-a7ec-1abdc6a5b266.png)
+
+![image](https://user-images.githubusercontent.com/75881116/204612415-f747962c-192c-43a2-9665-d6ecce6779a1.png)
+
+![image](https://user-images.githubusercontent.com/75881116/204612492-cf9752dc-4732-4e8b-bd01-dc75a955927a.png)
+
+
 ## Authors
 
 - Diya Patel 
 - Niyati Rolia
 - Siddhant Parekh
+
+
+
 
