@@ -45,6 +45,20 @@ Platform/Language: Node JS, React JS, Express JS
 
  Logout
  
+ 
+## Libraries used in Backend
+
+1. Bcrypt (for encrypting the passwords of users)
+
+2. Dotenv (for storing the connection url and other private credentials and global variables)
+
+3. Express (For routing)
+
+4. Mongoose (For database connection)
+
+5. Multer (for file upload)
+
+6. Path (For routing or redirecting)
 
 ## Images 
 
