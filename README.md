@@ -88,6 +88,10 @@ Implementing forgot password feature.
 Including Wishlist 
 
 
+## Demo
+
+https://youtu.be/AA9hXFwI3Vo
+
 
 ## Images 
 
