@@ -46,6 +46,13 @@ Platform/Language: Node JS, React JS, Express JS
  Logout
  
  
+## Libraries used in Frontend
+
+1. React
+
+2. Axios
+
+ 
 ## Libraries used in Backend
 
 1. Bcrypt (for encrypting the passwords of users)
@@ -59,6 +66,28 @@ Platform/Language: Node JS, React JS, Express JS
 5. Multer (for file upload)
 
 6. Path (For routing or redirecting)
+
+
+## Deployment
+
+Not deployed on any hosting site yet (Heroku, GoDaddy etc). Database managed through online MongoDB account
+
+
+## Future Scope
+
+Uploading gifs and videos along with photos
+
+
+
+Adding filtering by categories feature
+
+Implementing the feature such as changing password and also cant keep the new password same as previous passwords.
+
+Implementing forgot password feature.
+
+Including Wishlist 
+
+
 
 ## Images 
 
