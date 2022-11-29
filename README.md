@@ -111,9 +111,9 @@ https://youtu.be/AA9hXFwI3Vo
 
 ## Authors
 
-- Diya Patel 
-- Niyati Rolia
-- Siddhant Parekh
+- Diya Patel (16010121824)
+- Niyati Rolia (16010121823)
+- Siddhant Parekh (16010121822)
 
 
 
