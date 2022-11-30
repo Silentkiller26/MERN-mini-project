@@ -18,15 +18,6 @@ Using express, axios, and path modules to route through and between multiple web
 
 Managing and updating multiple mongoDB databases
 
-## OS
-
-Operating environment for the Craftkala is as listed below:
-Distributed database
-Client/Server system
-Operating system: Windows
-Database: Mongo DB
-Platform/Language: Node JS, React JS, Express JS
-
 ## User Interface
 
  Frontend software - React JS
@@ -52,6 +43,11 @@ Platform/Language: Node JS, React JS, Express JS
 
 2. Axios
 
+3. Tailwind
+
+4. Stripe
+
+5. ViteJS
  
 ## Libraries used in Backend
 
